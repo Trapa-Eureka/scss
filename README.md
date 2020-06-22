@@ -56,9 +56,8 @@
 ## SCSS:
 
 - [x] Variables
-- [ ] Nesting
-- [ ] Partials
-- [ ] Mixins
+- [x] Nesting
+- [x] Mixins
 - [ ] Extend
 - [ ] Responsive Mixins
 
