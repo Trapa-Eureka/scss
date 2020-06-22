@@ -1,0 +1,28 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Trapa-Eureka/scss",
+  "author": "JINHO SON <1982gaya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/register": "^7.10.3",
+    "browserslist": "^4.12.0",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "browserslist": {
+    "browsers": [
+      "last 2 versions"
+    ]
+  }
+}
